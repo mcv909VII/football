@@ -1,3 +1,5 @@
+# änderung ZWEI im dockerfile für den merge konflikt in der selben datei - docker
+
 # hotfix auf dem hotfix branch
 
 ARG DOCKER_BASE
